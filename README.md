@@ -9,11 +9,11 @@ I'll be available to embark on new adventures starting from **December 1, 2023**
 
 ## 🌱 What am I up to?
 - **Exploring Rust**: Always in the hunt for robust and efficient tools to add to my skillset.
-- **Open-source Contributions**: Maintaining [@nanostores/lit]
+- **Open-source Contributions**: Maintaining [@nanostores/lit](https://github.com/nanostores/lit)
 
 
 ## 📬 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/emilbonnek/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/emilbonnek/)
 - 📧 Email: emilbonnek@gmail.com
 
 
